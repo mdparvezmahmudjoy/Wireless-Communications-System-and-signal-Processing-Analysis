@@ -1,4 +1,4 @@
-# Wireless-Communications-Project
+# Wireless Communications System  & Signal Processing Analysis
 1.Signals and systems (Assingment week1)
   Continuous, Discrete
   Complex numbers, Sinusoid signal, Convolution,
